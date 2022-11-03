@@ -4,7 +4,6 @@ My name is Alexander, a data scientist with technical background.
 
 ## Contacts
 <a href="https://www.linkedin.com/in/alexander-ivanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-ivanov/" height="30" width="40" /></a>
-</p>
 <a href="https://t.me/aligivanov" target="blank"><img align="center" src="https://github.com/Alex1iv/Alex1iv/blob/d21c272ca29c6fa87a3814a599b208053b24bff2/telegram_icon.png" alt="https://t.me/aligivanov" height="30" width="40" /></a>
 </p>
 
@@ -13,9 +12,9 @@ My name is Alexander, a data scientist with technical background.
 ### Education
 
 
-* Data science course /SkillFactory since March 2022
-* <i class="fa-regular fa-diploma"></i> masters in Business Administration (2017)
-* <i class="fa-regular fa-diploma"></i> masters in engineering (2008), degree with honor
+* Data science course / SkillFactory since March 2022
+* masters in Business Administration (2017)
+* masters in engineering (2008), degree with honor
 
 ## Technology stack
 
