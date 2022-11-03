@@ -1,14 +1,16 @@
 # Hi there and welcome 👋
 
-My name is Alexander and here is a short summary:
+My name is Alexander, a data scientist with technical background.
 
-## Education
+## Contacts
+https://www.linkedin.com/in/alexander-ivanov/
 
+### Education
+
+
+* Data science course /SkillFactory since March 2022
 * <i class="fa-regular fa-diploma"></i> masters in Business Administration (2017)
 * <i class="fa-regular fa-diploma"></i> masters in engineering (2008), degree with honor
-
-Data science course since 2022
-
 
 ## Technology stack
 
