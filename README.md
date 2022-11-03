@@ -4,8 +4,8 @@ My name is Alexander and here is a short summary:
 
 ## Education
 
-* masters in Business Administration (2017)
-* masters in engineering (2008), degree with honor
+* <i class="fa-regular fa-diploma"></i> masters in Business Administration (2017)
+* <i class="fa-regular fa-diploma"></i> masters in engineering (2008), degree with honor
 
 Data science course since 2022
 
@@ -33,7 +33,7 @@ As an outcome of a competition on Kaggle it was created a model that predicts a 
 - perform an exploratory data analysis;
 - build a model and validate results;
 
-:arrow_up:[to Сontent](README.md#Content)
+:arrow_up:[ to Сontent](README.md#Content)
 
  
 ### Project 2 description
@@ -43,10 +43,10 @@ An analysis of a large dataset from the HeadHunter, the most popular russian int
 - read data form excel into DataFrame;
 - clean raw data using various methods and derive important information from columns in accessible format;
 
-:arrow_up:[to Сontent](README.md#Content)
+:arrow_up:[ to Сontent](README.md#Content)
 
 
 ### 3. Bank customers outflow
 It was analized the client outflow from a certain bank (db was taken from Kaggle.com). The result is presented in a jupiter notebook format in 10 figures with explanations.
 
-:arrow_up:[to Сontent](README.md#Content)
+:arrow_up:[ to Сontent](README.md#Content)
