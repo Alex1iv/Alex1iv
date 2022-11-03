@@ -1,6 +1,6 @@
 # Hi there and welcome 👋
 
-My name is Alexander, a data scientist with technical background.
+My name is Alexander Ivanov, a data scientist with technical background.
 
 ## Contacts
 <a href="https://www.linkedin.com/in/alexander-ivanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-ivanov/" height="30" width="40" /></a>
@@ -27,9 +27,9 @@ My name is Alexander, a data scientist with technical background.
 
 * [1. Gesture prediction model that learns from muscle signals](https://github.com/Alex1iv/Motorica_3)
 
-* [2. EDA for user profiles of a recruitment platform](https://github.com/Alex1iv/sf_data_sci/tree/main/4.%20Headhunter's%20test%20db%20analalysis)
+* [2. EDA for user profiles of a recruitment platform](https://github.com/Alex1iv/sf_data_sci/tree/main/4.%20Salary_prediction)
 
-* [3. Bank customers outflow](https://github.com/Alex1iv/sf_data_sci/blob/main/Project_1/Bank_clients.ipynb)
+* [3. Bank customers outflow](https://github.com/Alex1iv/sf_data_sci/blob/main/2.%20Bank%20customers%20outflow/Bank_clients.ipynb)
 
 
 ### Project 1 description
