@@ -8,14 +8,6 @@ My name is Alexander Ivanov, a data scientist with technical background.
 </p>
 
 
-
-### Education
-
-
-* Data science course / SkillFactory since March 2022
-* masters in Business Administration (2017)
-* masters in engineering (2008), degree with honor
-
 ## Technology stack
 
 * machine learning: Scikit-learn, TensorFlow. 
