@@ -8,7 +8,7 @@ My name is Alexander Ivanov, a data scientist with technical background.
 </p>
 
 
-## Technology stackhttps://www.kaggle.com/competitions/motorica-advanced-gesture-classification
+## Technology stack
 
 * machine learning: Scikit-learn, TensorFlow. 
 * ETL Tools: Python, Numpy, Scipy, Pandas, sql. 
