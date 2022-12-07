@@ -17,7 +17,7 @@ My name is Alexander Ivanov, a data scientist with technical background.
 
 ## Projects
 
-* [1. Gesture prediction model that learns from muscle signals](https://github.com/Alex1iv/Motorica_3)
+* [1. Hand gesture prediction](https://github.com/gesture-classification/gesture_classification)
 * [2. Recruitment platform user profiles EDA](https://github.com/Alex1iv/sf_data_sci/tree/main/4.%20Salary_prediction)
 * [3. Bank customers outflow](https://github.com/Alex1iv/sf_data_sci/tree/main/1.%20Bank_customers_outflow)
 
