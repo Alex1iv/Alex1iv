@@ -13,7 +13,7 @@ My name is Alexander Ivanov, a data scientist with technical background.
 * ML: Scikit-learn, TensorFlow. 
 * ETL Tools: Python, Numpy, Scipy, Pandas. 
 * data visualization: Matplotlib, Seaborn, Plotly.
-* additional: Docker, SQL, Comet-ml.
+* additional: Docker, SQL, [Comet-ml](https://www.comet.com/).
 
 
 ## Projects
@@ -21,8 +21,8 @@ My name is Alexander Ivanov, a data scientist with technical background.
 * [1. Hand gesture prediction](https://github.com/gesture-classification/gesture_classification)
 * [2. Job candidates salary prediction](https://github.com/Alex1iv/Applicant_salary_prediction)
 * [3. Bank customers outflow](https://github.com/Alex1iv/Bank_customers_outflow)
-* [4. Relation_db analysis](https://github.com/Alex1iv/sf_data_sci/tree/main/4.%20Relation_DB)
+* [4. Relation_db analysis](https://github.com/Alex1iv/Relation-db)
 
 ## Awards and Achievements
 
-* Our team won the 1st place in a [3 stage Kaggle competition](https://www.kaggle.com/competitions/motorica-advanced-gesture-classification)
+* Our team won the 1st place in a [3 stage Kaggle competition.](https://www.kaggle.com/competitions/motorica-advanced-gesture-classification)
