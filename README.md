@@ -23,7 +23,7 @@ My name is Alexander Ivanov, a data scientist with technical background.
 * [3. Bank customers outflow](https://github.com/Alex1iv/Bank_customers_outflow)
 * [4. Relation_db analysis](https://github.com/Alex1iv/Relation-db)
 * [5. Hotel rating fraud detection](https://github.com/Alex1iv/Hotel-rating-prediction)
-* [6. Marketing campaign success](https://github.com/Alex1iv/marketing_campaign)
+* [6. Deposit subscription](https://github.com/Alex1iv/Deposit-subscription)
 * [7. Revenue maximization strategy](https://github.com/Alex1iv/revenue_maximization_strategy)
 
 ## Awards and Achievements
