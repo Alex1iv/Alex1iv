@@ -13,7 +13,7 @@ My name is Alexander Ivanov, a data scientist with technical background.
 * ML: Scikit-learn, TensorFlow. 
 * ETL Tools: Python, Numpy, Scipy, Pandas. 
 * data visualization: Matplotlib, Seaborn, Plotly.
-* additional: Docker, SQL, [Comet-ml](https://www.comet.com/), [Streamlit](https://streamlit.io/).
+* additional: Docker, SQL, [Comet-ml](https://www.comet.com/), [Streamlit](https://streamlit.io/), Flask.
 
 
 ## Projects
