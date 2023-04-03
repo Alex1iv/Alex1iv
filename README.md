@@ -16,15 +16,18 @@ My name is Alexander Ivanov, a data scientist with technical background.
 * additional: Docker, SQL, [Comet-ml](https://www.comet.com/), [Streamlit](https://streamlit.io/), Flask.
 
 
-## Projects
+## Projects in the fintech industry
+* [Loan repayment](https://github.com/Alex1iv/Loan_repayment)
+* [Revenue maximization strategy](https://github.com/Alex1iv/revenue_maximization_strategy)
+* [Bank customers outflow](https://github.com/Alex1iv/Bank_customers_outflow)
+* [Deposit subscription](https://github.com/Alex1iv/Deposit-subscription)
 
-* [1. Hand gesture prediction](https://github.com/gesture-classification/gesture_classification)
-* [2. Job candidates salary prediction](https://github.com/Alex1iv/Applicant_salary_prediction)
-* [3. Bank customers outflow](https://github.com/Alex1iv/Bank_customers_outflow)
-* [4. Relation_db analysis](https://github.com/Alex1iv/Relation-db)
-* [5. Hotel rating fraud detection](https://github.com/Alex1iv/Hotel-rating-prediction)
-* [6. Deposit subscription](https://github.com/Alex1iv/Deposit-subscription)
-* [7. Revenue maximization strategy](https://github.com/Alex1iv/revenue_maximization_strategy)
+
+## Projects in technical domains
+* [Hand gesture prediction](https://github.com/gesture-classification/gesture_classification)
+* [Job candidates salary prediction](https://github.com/Alex1iv/Applicant_salary_prediction)
+* [Relation_db analysis](https://github.com/Alex1iv/Relation-db)
+* [Hotel rating fraud detection](https://github.com/Alex1iv/Hotel-rating-prediction)
 
 ## Awards and Achievements
 
