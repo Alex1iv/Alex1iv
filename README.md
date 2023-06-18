@@ -16,14 +16,15 @@ My name is Alexander Ivanov, a data scientist with technical background.
 * additional: Docker, SQL, [Comet-ml](https://www.comet.com/), [Streamlit](https://streamlit.io/), Flask.
 
 
-## Projects in the fintech industry
+## Fintech industry projects
 * [Loan repayment](https://github.com/Alex1iv/Loan_repayment)
 * [Revenue maximization strategy](https://github.com/Alex1iv/revenue_maximization_strategy)
 * [Bank customers outflow](https://github.com/Alex1iv/Bank_customers_outflow)
 * [Deposit subscription](https://github.com/Alex1iv/Deposit-subscription)
 
 
-## Projects in technical domains
+## Technical domain projects
+* [Automation system for the bionic hand prostheses](https://github.com/Internship-moto/Gestures_3.git)
 * [Hand gesture prediction](https://github.com/gesture-classification/gesture_classification)
 * [Job candidates salary prediction](https://github.com/Alex1iv/Applicant_salary_prediction)
 * [Relation_db analysis](https://github.com/Alex1iv/Relation-db)
