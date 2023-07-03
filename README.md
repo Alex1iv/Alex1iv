@@ -30,6 +30,10 @@ My name is Alexander Ivanov, a data scientist with technical background.
 * [Relation_db analysis](https://github.com/Alex1iv/Relation-db)
 * [Hotel rating fraud detection](https://github.com/Alex1iv/Hotel-rating-prediction)
 
+## E-commerce
+
+* [E-commerce pricing](https://github.com/Alex1iv/Retail_pricing.git)
+
 ## Awards and Achievements
 
 * Our team won the 1st place in a [3 stage Kaggle competition.](https://www.kaggle.com/competitions/motorica-advanced-gesture-classification)
