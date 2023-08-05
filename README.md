@@ -21,6 +21,7 @@ My name is Alexander Ivanov, a data scientist with technical background.
 * [Revenue maximization strategy](https://github.com/Alex1iv/revenue_maximization_strategy)
 * [Bank customers outflow](https://github.com/Alex1iv/Bank_customers_outflow)
 * [Deposit subscription](https://github.com/Alex1iv/Deposit-subscription)
+* [Credit card users segmentation](https://github.com/Alex1iv/customer_segmentation.git)
 
 
 ## Technical domain projects
