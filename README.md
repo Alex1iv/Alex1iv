@@ -34,6 +34,7 @@ My name is Alexander Ivanov, a data scientist with technical background.
 ## E-commerce
 
 * [E-commerce pricing](https://github.com/Alex1iv/Retail_pricing.git)
+* [Webshop customer segmentation](https://github.com/Alex1iv/web_shop_customers_segmentation.git)
 
 ## Awards and Achievements
 
