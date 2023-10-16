@@ -10,10 +10,11 @@ My name is Alexander Ivanov, a data scientist with technical background.
 
 ## Technology stack
 
-* ML: Scikit-learn, TensorFlow. 
-* ETL Tools: Python, Numpy, Scipy, Pandas. 
+* Programming languages: Python, SQL, C++. 
+* Machine Learning: Scikit-learn, TensorFlow. 
+* ETL Tools: Numpy, Scipy, Pandas. 
 * data visualization: Matplotlib, Seaborn, Plotly.
-* additional: Docker, SQL, [Comet-ml](https://www.comet.com/), [Streamlit](https://streamlit.io/), Flask.
+* additional: Docker, [Comet-ml](https://www.comet.com/), [Streamlit](https://streamlit.io/), Flask.
 
 
 ## Fintech industry projects
