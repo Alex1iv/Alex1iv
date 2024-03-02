@@ -27,6 +27,7 @@ My name is Alexander Ivanov, a data scientist with technical background.
 
 ## Technical domain projects
 * [Automation system for bionic hand prostheses](https://github.com/Internship-moto/Gestures_3.git)
+* [Power consumption prediction](https://github.com/Alex1iv/Power_consumption_prediction.git)
 * [GDP modelling](https://github.com/Alex1iv/GDP_forecast)
 * [Hand gesture prediction](https://github.com/gesture-classification/gesture_classification)
 * [Job candidates salary prediction](https://github.com/Alex1iv/Applicant_salary_prediction)
