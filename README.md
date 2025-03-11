@@ -26,6 +26,7 @@ My name is Alexander Ivanov, a data scientist with technical background.
 
 
 ## Technical domain projects
+* [Speech analysis](https://github.com/Alex1iv/speech_classification)
 * [Automation system for bionic hand prostheses](https://github.com/Internship-moto/Gestures_3.git)
 * [Power consumption prediction](https://github.com/Alex1iv/Power_consumption_prediction.git)
 * [GDP modelling](https://github.com/Alex1iv/GDP_forecast)
