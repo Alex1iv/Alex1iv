@@ -16,6 +16,9 @@ My name is Alexander Ivanov, a data scientist with technical background.
 * data visualization: Matplotlib, Seaborn, Plotly.
 * additional: Docker, [Comet-ml](https://www.comet.com/), [Streamlit](https://streamlit.io/), Flask.
 
+## Healthcare / image classification
+* [Lung tumor detection](https://github.com/Alex1iv/tumor)
+
 
 ## Fintech industry projects
 * [Loan repayment](https://github.com/Alex1iv/Loan_repayment)
